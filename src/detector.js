@@ -12,5 +12,3 @@ window.requestAnimationFrame(function () {
     date.setDate(date.getDate() + 1);
     document.cookie = "HideTicker=true;domain=youtube.com;path=/;expires=" + date.toUTCString();
 });
-
-//xk("HideTicker", "true", 86400);
