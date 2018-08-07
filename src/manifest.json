@@ -1,6 +1,6 @@
 {
   "name": "Youtube Privacy reminder removal",
-  "version": "0.5",
+  "version": "0.5.1",
   "description": "Detects and hide privacy reminder banner, and refresh the youtube layout.",
   "content_scripts": [{
     "matches": ["https://www.youtube.com/*"],
